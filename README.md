@@ -1,8 +1,6 @@
 <h2> Hey there! I'm cooper.</h2>                                                                                                                     
 
-<img align='right' src="<https://github.com/warm-heart/warm-heart/blob/master/assets/one.gif>" style="height:12rem;width:8rem">
-
-
+![one](assets/one.gif)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
