@@ -1,6 +1,6 @@
 <h2> Hey there! I'm cooper.</h2>                                                                                                                     
 
-![one](assets/one.gif)
+![one](https://github.com/warm-heart/warm-heart/blob/master/assets/one.gif)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
